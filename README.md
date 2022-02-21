@@ -14,3 +14,11 @@ Office365Portals
 # Audit Log Search
 
 [compliance.microsoft.com](https://compliance.microsoft.com/auditlogsearch)
+
+# Welcome to Microsoft 365 Defender
+
+[https://security.microsoft.com/](https://security.microsoft.com/)
+
+# Quarantine
+
+[https://admin.protection.outlook.com/quarantine](https://admin.protection.outlook.com/quarantine)
