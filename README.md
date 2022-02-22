@@ -31,3 +31,6 @@ Office365Portals
 
 # SpamContentFilter
 [https://outlook.office365.com/ecp/Antispam/SpamContentFilter.slab](https://outlook.office365.com/ecp/Antispam/SpamContentFilter.slab)
+
+# Tenant Allow/Block Lists
+[https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem](https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem)
