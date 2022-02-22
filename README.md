@@ -25,3 +25,6 @@ Office365Portals
 
 # AntiSpam Policy
 [https://security.microsoft.com/antispam](https://security.microsoft.com/antispam)
+
+# Antiphishing Policies
+[https://security.microsoft.com/antiphishing](https://security.microsoft.com/antiphishing)
