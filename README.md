@@ -34,3 +34,7 @@ Office365Portals
 
 # Tenant Allow/Block Lists
 [https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem](https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem)
+
+# Advanced delivery - Phishing simulation
+
+[https://security.microsoft.com/advanceddelivery?viewid=PhishingSimulation](https://security.microsoft.com/advanceddelivery?viewid=PhishingSimulation)
