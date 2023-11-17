@@ -41,3 +41,6 @@ Office365Portals
 
 # Retention Policy Tag - for Online Archive
 [https://compliance.microsoft.com/exchangeinformationgovernance?viewid=exoRetentionPolicyTag](https://compliance.microsoft.com/exchangeinformationgovernance?viewid=exoRetentionPolicyTag)
+
+# Mailbox Usage Report
+[https://admin.microsoft.com/?auth_upn=golive%40smw-law.co.uk&source=applauncher#/reportsUsage/MailboxUsage][(](https://admin.microsoft.com/?auth_upn=golive%40smw-law.co.uk&source=applauncher#/reportsUsage/MailboxUsage))
