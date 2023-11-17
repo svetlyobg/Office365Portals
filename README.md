@@ -38,3 +38,6 @@ Office365Portals
 # Advanced delivery - Phishing simulation
 
 [https://security.microsoft.com/advanceddelivery?viewid=PhishingSimulation](https://security.microsoft.com/advanceddelivery?viewid=PhishingSimulation)
+
+# Retention Policy Tag - for Online Archive
+[https://compliance.microsoft.com/exchangeinformationgovernance?viewid=exoRetentionPolicyTag](https://compliance.microsoft.com/exchangeinformationgovernance?viewid=exoRetentionPolicyTag)
